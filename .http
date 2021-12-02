@@ -1,0 +1,9 @@
+POST http://localhost:3000/add-new-post
+Content-Type: application/json
+
+{
+
+    "bookname"     : "Harry Potter",
+    "nameofissuer" : "Souvik Nayak",
+    "date"         : "02-12-2021"
+}
